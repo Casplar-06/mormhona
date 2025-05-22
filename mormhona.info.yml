@@ -1,12 +1,12 @@
-name: Bootstrap Barrio Subtheme
+name: Mormhona
 type: theme
 description: 'Welcome to a fairytale land!'
 core_version_requirement: ^10.3 || ^11
 base theme: bootstrap_barrio
 
 libraries:
-  - bootstrap_barrio_subtheme/bootstrap_cdn
-  - bootstrap_barrio_subtheme/global-styling
+  - mormhona/bootstrap_cdn
+  - mormhona/global-styling
 
 regions:
   top_header: 'Top header'
